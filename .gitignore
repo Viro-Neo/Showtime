@@ -3,5 +3,6 @@
 # website: https://kit.svelte.dev/
 
 .svelte-kit/
-package
+package-lock.json
+node_modules/
 
