@@ -1,5 +1,12 @@
-{
-    "name": "Showtime",
-    "description": "A movie and TV show tracker",
-    "github": "link"
-}
+[
+    {
+        "name": "Showtime",
+        "description": "Portfolio",
+        "github": "link"
+    },
+    {
+        "name": "ProtoDrive",
+        "description": "Driving game",
+        "github": "link"
+    }
+]
